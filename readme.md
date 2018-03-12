@@ -26,7 +26,8 @@ State channels are an approach to scale blockchain by moving some of transaction
 ## Talks
 - [Raiden: Scaling Out With Offchain State Networks](https://www.youtube.com/watch?v=h791zjvf3uQ) - Heiko Hees (Dec. 2015) 
 - [Generalized State Channels](https://www.youtube.com/watch?v=kZH_ty82jKY) - Li Xuanji (Feb. 2018)
-- [Ameen Soleimani](https://www.youtube.com/watch?v=MEL50CVOcH4) - by Ameen Soleimani (Sept. 2016, talk)
+- [Ameen Soleimani](https://www.youtube.com/watch?v=MEL50CVOcH4) - by Ameen Soleimani (Sept. 2016)
+- [Ameen Soleimani and Nathan Ginnever](https://www.youtube.com/watch?v=HCaVt-PClJI) - SpankChain State Channels on EthCC (Mar. 2016) 
 
 ## Code
 - [Toy State Channels](https://github.com/ledgerlabs/toy-state-channels/tree/master/contracts)
