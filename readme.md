@@ -32,7 +32,7 @@ State channels are an approach to scale blockchain by moving some of transaction
 ## Code
 - [Toy State Channels](https://github.com/ledgerlabs/toy-state-channels/tree/master/contracts)
 - [Raiden Network](https://github.com/raiden-network/raiden)
-- [Machinommy](https://machinomy.com)
+- [Machinomy](https://machinomy.com)
 - [SpankChain: General State Channels](https://github.com/SpankChain/general-state-channels)
 
 ## License
